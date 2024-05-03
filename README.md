@@ -1,4 +1,4 @@
-# NNDL CA3 - SAM & Faster RCNN
+# Neural Network and Deep Learning Course - SAM & Faster RCNN
 
 ## Project Description
 
